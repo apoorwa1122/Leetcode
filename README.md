@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/apoorwa1122/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apoorwa1122/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/apoorwa1122/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/apoorwa1122/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apoorwa1122/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -103,6 +105,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/apoorwa1122/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apoorwa1122/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -210,5 +213,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/apoorwa1122/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
