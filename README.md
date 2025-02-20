@@ -16,6 +16,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/apoorwa1122/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apoorwa1122/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/apoorwa1122/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/apoorwa1122/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/apoorwa1122/Leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/apoorwa1122/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/apoorwa1122/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -40,6 +41,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/apoorwa1122/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apoorwa1122/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/apoorwa1122/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/apoorwa1122/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/apoorwa1122/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -65,6 +67,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apoorwa1122/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apoorwa1122/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/apoorwa1122/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/apoorwa1122/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/apoorwa1122/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/apoorwa1122/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/apoorwa1122/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -220,5 +223,6 @@
 | [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/apoorwa1122/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/apoorwa1122/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/apoorwa1122/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/apoorwa1122/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
