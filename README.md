@@ -37,6 +37,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/apoorwa1122/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/apoorwa1122/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apoorwa1122/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/apoorwa1122/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3429-special-array-i) |
@@ -59,6 +60,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/apoorwa1122/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/apoorwa1122/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/apoorwa1122/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -185,6 +187,7 @@
 | [2145-grid-game](https://github.com/apoorwa1122/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/apoorwa1122/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/apoorwa1122/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
