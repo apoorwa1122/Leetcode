@@ -43,6 +43,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/apoorwa1122/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [2145-grid-game](https://github.com/apoorwa1122/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/apoorwa1122/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/apoorwa1122/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -307,4 +309,5 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/apoorwa1122/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
