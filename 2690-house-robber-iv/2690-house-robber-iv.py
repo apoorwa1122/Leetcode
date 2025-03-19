@@ -1,23 +1,18 @@
 class Solution:
     def minCapability(self, nums: List[int], k: int) -> int:
-        n=len(nums)
-        x0=min(nums)
-        xM=max(nums)
-        def f(cap):
-            steal, i=0, 0
-            while i<n and steal<=k:
-                if nums[i]<=cap:
-                    steal+=1
+        def steal(mid):
+            count= 0
+            i =0
+            while i<len(nums):
+                if nums[i]<=mid:
+                    count+=1
+                    i+=2
+                else:
                     i+=1
-                i+=1
-            return steal>=k
-
-        l, r=x0, xM
+            return count>=k
+        l, r = min(nums), max(nums)
         while l<r:
-            m=(l+r)>>1
-            if f(m):
-                r=m
-            else:
-                l=m+1
+            m=l+(r-l)//2
+            if steal(m): r=m
+            else: l=m+1
         return l
-        
