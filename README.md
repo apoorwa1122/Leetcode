@@ -73,6 +73,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/apoorwa1122/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apoorwa1122/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/apoorwa1122/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/apoorwa1122/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [2478-longest-nice-subarray](https://github.com/apoorwa1122/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorwa1122/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
 | ------- |
