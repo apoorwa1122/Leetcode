@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/apoorwa1122/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0952-word-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/apoorwa1122/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
