@@ -14,6 +14,7 @@
 | [0952-word-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/apoorwa1122/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/apoorwa1122/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/apoorwa1122/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/apoorwa1122/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
