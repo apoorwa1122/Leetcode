@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -315,6 +316,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -406,6 +408,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/apoorwa1122/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apoorwa1122/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
