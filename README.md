@@ -391,6 +391,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/apoorwa1122/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -496,6 +497,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apoorwa1122/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/apoorwa1122/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
