@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/apoorwa1122/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/apoorwa1122/Leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/apoorwa1122/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
@@ -489,6 +490,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -581,6 +583,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
