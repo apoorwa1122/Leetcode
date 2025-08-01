@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -535,6 +536,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
