@@ -115,6 +115,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/apoorwa1122/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/apoorwa1122/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apoorwa1122/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/apoorwa1122/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -509,6 +511,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/apoorwa1122/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -617,6 +620,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -670,4 +674,5 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apoorwa1122/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
