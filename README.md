@@ -483,6 +483,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/apoorwa1122/Leetcode/tree/master/0009-palindrome-number) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/apoorwa1122/Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/apoorwa1122/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/apoorwa1122/Leetcode/tree/master/1500-count-largest-group) |
@@ -553,6 +554,7 @@
 | [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/apoorwa1122/Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/apoorwa1122/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -682,4 +684,8 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apoorwa1122/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/apoorwa1122/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/apoorwa1122/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
