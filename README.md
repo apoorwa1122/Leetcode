@@ -487,6 +487,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/apoorwa1122/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/apoorwa1122/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/apoorwa1122/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/apoorwa1122/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -671,6 +672,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/apoorwa1122/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
