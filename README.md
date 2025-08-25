@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/apoorwa1122/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/apoorwa1122/Leetcode/tree/master/0854-making-a-large-island) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/apoorwa1122/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/apoorwa1122/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -519,6 +521,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/apoorwa1122/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apoorwa1122/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/apoorwa1122/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2551-apply-operations-to-an-array) |
