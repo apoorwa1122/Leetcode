@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/apoorwa1122/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -393,6 +395,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/apoorwa1122/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/apoorwa1122/Leetcode/tree/master/0854-making-a-large-island) |
@@ -535,6 +538,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/apoorwa1122/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/apoorwa1122/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/apoorwa1122/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
