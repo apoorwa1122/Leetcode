@@ -260,6 +260,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apoorwa1122/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/apoorwa1122/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/apoorwa1122/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/apoorwa1122/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorwa1122/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -349,6 +350,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/apoorwa1122/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apoorwa1122/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/apoorwa1122/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/apoorwa1122/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/apoorwa1122/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/apoorwa1122/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
