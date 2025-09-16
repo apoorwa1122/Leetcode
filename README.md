@@ -57,6 +57,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/apoorwa1122/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apoorwa1122/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/apoorwa1122/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/apoorwa1122/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/apoorwa1122/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/apoorwa1122/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -527,6 +529,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apoorwa1122/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/apoorwa1122/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/apoorwa1122/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -634,6 +637,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/apoorwa1122/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
