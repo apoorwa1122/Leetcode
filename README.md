@@ -137,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/apoorwa1122/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -216,6 +217,7 @@
 | [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/apoorwa1122/Leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/apoorwa1122/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/apoorwa1122/Leetcode/tree/master/0952-word-subsets) |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apoorwa1122/Leetcode/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/apoorwa1122/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/apoorwa1122/Leetcode/tree/master/0797-rabbits-in-forest) |
