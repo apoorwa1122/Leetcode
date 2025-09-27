@@ -784,4 +784,8 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/apoorwa1122/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/apoorwa1122/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
