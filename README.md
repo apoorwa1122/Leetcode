@@ -24,6 +24,7 @@
 | [1006-vowel-spellchecker](https://github.com/apoorwa1122/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/apoorwa1122/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/apoorwa1122/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/apoorwa1122/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/apoorwa1122/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -637,6 +638,7 @@
 | [0868-push-dominoes](https://github.com/apoorwa1122/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/apoorwa1122/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/apoorwa1122/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/apoorwa1122/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/apoorwa1122/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/apoorwa1122/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
