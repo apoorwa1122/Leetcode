@@ -563,6 +563,7 @@
 | [1500-count-largest-group](https://github.com/apoorwa1122/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/apoorwa1122/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/apoorwa1122/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/apoorwa1122/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apoorwa1122/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2050-count-good-numbers) |
@@ -591,6 +592,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/apoorwa1122/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/apoorwa1122/Leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apoorwa1122/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
