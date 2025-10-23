@@ -287,6 +287,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/apoorwa1122/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/apoorwa1122/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/apoorwa1122/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/apoorwa1122/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -622,6 +623,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/apoorwa1122/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/apoorwa1122/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/apoorwa1122/Leetcode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
@@ -635,6 +637,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/apoorwa1122/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/apoorwa1122/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
@@ -726,6 +729,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/apoorwa1122/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -787,6 +791,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/apoorwa1122/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
