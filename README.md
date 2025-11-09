@@ -635,6 +635,7 @@
 | [2050-count-good-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/apoorwa1122/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/apoorwa1122/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/apoorwa1122/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -665,6 +666,7 @@
 | [1642-water-bottles](https://github.com/apoorwa1122/Leetcode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/apoorwa1122/Leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/apoorwa1122/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/apoorwa1122/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
