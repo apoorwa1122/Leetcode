@@ -558,6 +558,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/apoorwa1122/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/apoorwa1122/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -729,6 +730,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/apoorwa1122/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/apoorwa1122/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
