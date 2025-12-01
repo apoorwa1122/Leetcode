@@ -64,6 +64,7 @@
 | [2023-design-movie-rental-system](https://github.com/apoorwa1122/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/apoorwa1122/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/apoorwa1122/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/apoorwa1122/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apoorwa1122/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/apoorwa1122/Leetcode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -396,6 +397,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/apoorwa1122/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/apoorwa1122/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/apoorwa1122/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/apoorwa1122/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/apoorwa1122/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apoorwa1122/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/apoorwa1122/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -597,6 +599,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apoorwa1122/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/apoorwa1122/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/apoorwa1122/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/apoorwa1122/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/apoorwa1122/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -843,6 +846,7 @@
 | [0794-swim-in-rising-water](https://github.com/apoorwa1122/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/apoorwa1122/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/apoorwa1122/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/apoorwa1122/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/apoorwa1122/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/apoorwa1122/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/apoorwa1122/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
