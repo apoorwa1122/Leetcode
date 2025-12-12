@@ -141,6 +141,7 @@
 | [3429-special-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/apoorwa1122/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/apoorwa1122/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apoorwa1122/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorwa1122/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -631,6 +632,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/apoorwa1122/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/apoorwa1122/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apoorwa1122/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/apoorwa1122/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -702,6 +704,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/apoorwa1122/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/apoorwa1122/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/apoorwa1122/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/apoorwa1122/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -728,6 +731,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/apoorwa1122/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/apoorwa1122/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apoorwa1122/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
