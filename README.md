@@ -492,6 +492,7 @@
 | [1558-course-schedule-iv](https://github.com/apoorwa1122/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/apoorwa1122/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/apoorwa1122/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2092-find-all-people-with-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apoorwa1122/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -506,6 +507,7 @@
 | [1558-course-schedule-iv](https://github.com/apoorwa1122/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apoorwa1122/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apoorwa1122/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apoorwa1122/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/apoorwa1122/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -575,6 +577,7 @@
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/apoorwa1122/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/apoorwa1122/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/apoorwa1122/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/apoorwa1122/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -591,6 +594,7 @@
 | [0854-making-a-large-island](https://github.com/apoorwa1122/Leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/apoorwa1122/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/apoorwa1122/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/apoorwa1122/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/apoorwa1122/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -617,6 +621,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apoorwa1122/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/apoorwa1122/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/apoorwa1122/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/apoorwa1122/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/apoorwa1122/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/apoorwa1122/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
