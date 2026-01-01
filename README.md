@@ -999,6 +999,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/apoorwa1122/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/apoorwa1122/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0196-delete-duplicate-emails](https://github.com/apoorwa1122/Leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Bitmask
 |  |
 | ------- |
