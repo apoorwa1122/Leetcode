@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/apoorwa1122/Leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/apoorwa1122/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/apoorwa1122/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/apoorwa1122/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -680,6 +681,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apoorwa1122/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/apoorwa1122/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/apoorwa1122/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/apoorwa1122/Leetcode/tree/master/0326-power-of-three) |
