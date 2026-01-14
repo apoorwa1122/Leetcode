@@ -148,6 +148,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/apoorwa1122/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apoorwa1122/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/apoorwa1122/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/apoorwa1122/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -909,6 +910,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/apoorwa1122/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apoorwa1122/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -986,6 +988,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apoorwa1122/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/apoorwa1122/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1008,4 +1011,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/apoorwa1122/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
