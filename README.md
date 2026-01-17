@@ -128,6 +128,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/apoorwa1122/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/apoorwa1122/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/apoorwa1122/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apoorwa1122/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -720,6 +721,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/apoorwa1122/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/apoorwa1122/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/apoorwa1122/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apoorwa1122/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/apoorwa1122/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1000,6 +1002,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/apoorwa1122/Leetcode/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/apoorwa1122/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
 |  |
