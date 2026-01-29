@@ -132,6 +132,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/apoorwa1122/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/apoorwa1122/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/apoorwa1122/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/apoorwa1122/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/apoorwa1122/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -343,6 +344,7 @@
 | [2465-shifting-letters-ii](https://github.com/apoorwa1122/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/apoorwa1122/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/apoorwa1122/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/apoorwa1122/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apoorwa1122/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/apoorwa1122/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -588,6 +590,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/apoorwa1122/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apoorwa1122/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/apoorwa1122/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1053,4 +1056,8 @@
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/apoorwa1122/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
