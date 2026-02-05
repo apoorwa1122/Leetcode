@@ -152,6 +152,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/apoorwa1122/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/apoorwa1122/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/apoorwa1122/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apoorwa1122/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/apoorwa1122/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -786,6 +787,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/apoorwa1122/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/apoorwa1122/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/apoorwa1122/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3379-transformed-array](https://github.com/apoorwa1122/Leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/apoorwa1122/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/apoorwa1122/Leetcode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/apoorwa1122/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
