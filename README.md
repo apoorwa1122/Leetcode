@@ -202,6 +202,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apoorwa1122/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/apoorwa1122/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/apoorwa1122/Leetcode/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/apoorwa1122/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/apoorwa1122/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/apoorwa1122/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/apoorwa1122/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/apoorwa1122/Leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/apoorwa1122/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -715,6 +717,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apoorwa1122/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/apoorwa1122/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/apoorwa1122/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/apoorwa1122/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/apoorwa1122/Leetcode/tree/master/0231-power-of-two) |
