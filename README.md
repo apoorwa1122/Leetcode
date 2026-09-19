@@ -731,6 +731,7 @@
 | [0900-reordered-power-of-2](https://github.com/apoorwa1122/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/apoorwa1122/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/apoorwa1122/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/apoorwa1122/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/apoorwa1122/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apoorwa1122/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/apoorwa1122/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1050,6 +1051,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/apoorwa1122/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/apoorwa1122/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/apoorwa1122/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/apoorwa1122/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
