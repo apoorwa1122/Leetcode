@@ -200,6 +200,7 @@
 | [3797-design-spreadsheet](https://github.com/apoorwa1122/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/apoorwa1122/Leetcode/tree/master/3827-implement-router) |
 | [3886-sum-of-sortable-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/apoorwa1122/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
