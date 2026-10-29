@@ -200,6 +200,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/apoorwa1122/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/apoorwa1122/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/apoorwa1122/Leetcode/tree/master/3827-implement-router) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/apoorwa1122/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/apoorwa1122/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -379,6 +380,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apoorwa1122/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/apoorwa1122/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/apoorwa1122/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -408,6 +410,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/apoorwa1122/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/apoorwa1122/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -633,6 +636,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/apoorwa1122/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/apoorwa1122/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/apoorwa1122/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -836,6 +840,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/apoorwa1122/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/apoorwa1122/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -847,6 +852,7 @@
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apoorwa1122/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1054,6 +1060,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/apoorwa1122/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/apoorwa1122/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/apoorwa1122/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1089,4 +1096,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/apoorwa1122/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/apoorwa1122/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/apoorwa1122/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
